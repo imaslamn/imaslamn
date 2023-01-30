@@ -1,4 +1,3 @@
-
 set ns [new Simulator]
 
 
