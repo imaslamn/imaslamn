@@ -1,2 +1,0 @@
-# imaslamn-
-imaslamnn@gmail.com
